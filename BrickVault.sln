@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickVault.App", "BrickVault.App\BrickVault.App.csproj", "{5239C1C8-7ED9-4595-9B43-15BE6A17E7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickVault.Api", "BrickVault.Api\BrickVault.Api.csproj", "{FABC1138-CA68-4B1C-A283-DD02E3F8796F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickVault.Core", "BrickVault.Core\BrickVault.Core.csproj", "{72D3D86C-EBE6-4FFF-947A-68473C60449D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5239C1C8-7ED9-4595-9B43-15BE6A17E7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5239C1C8-7ED9-4595-9B43-15BE6A17E7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5239C1C8-7ED9-4595-9B43-15BE6A17E7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5239C1C8-7ED9-4595-9B43-15BE6A17E7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABC1138-CA68-4B1C-A283-DD02E3F8796F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABC1138-CA68-4B1C-A283-DD02E3F8796F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABC1138-CA68-4B1C-A283-DD02E3F8796F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABC1138-CA68-4B1C-A283-DD02E3F8796F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D3D86C-EBE6-4FFF-947A-68473C60449D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D3D86C-EBE6-4FFF-947A-68473C60449D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D3D86C-EBE6-4FFF-947A-68473C60449D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D3D86C-EBE6-4FFF-947A-68473C60449D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
